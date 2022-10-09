@@ -84,4 +84,5 @@ public class SillyTest {
         assertTrue(base.compareTo(shorter) > 0);
         assertTrue(base.compareTo(longer) < 0);
     }
+
 }
